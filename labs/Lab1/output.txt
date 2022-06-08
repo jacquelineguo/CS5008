@@ -1,0 +1,28 @@
+-bash-4.2$ clear
+
+-bash-4.2$ cd jacquelineguo/
+-bash-4.2$ ls
+-bash-4.2$ git clone https://github.ccs.neu.edu/CS5008SEASpr2021/jacquelineguo_CS5008.git
+Cloning into 'jacquelineguo_CS5008'...
+Username for 'https://github.ccs.neu.edu': jacquelineguo
+Password for 'https://jacquelineguo@github.ccs.neu.edu': 
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (4/4), done.
+-bash-4.2$ cd jacquelineguo_CS5008/
+-bash-4.2$ pwd
+/home/jacquelineguo/jacquelineguo_CS5008
+-bash-4.2$ mkdir Lab1
+-bash-4.2$ ls
+Lab1  README.md
+-bash-4.2$ touch Lab1/output.txt
+-bash-4.2$ ls Lab1/
+output.txt
+-bash-4.2$ cd Lab1/
+-bash-4.2$ cat output.txt 
+-bash-4.2$ cat output.txt 
+-bash-4.2$ 
+
+
